@@ -5,6 +5,6 @@
 
 def printSteps(a,b):
     for i in range(a,b+1):
-        print(i)
+        print("Steps "+str(i))
 
 printSteps(1,9)
